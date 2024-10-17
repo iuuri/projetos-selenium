@@ -1,0 +1,1 @@
+driver.save_screenshot('tela.jpg')
