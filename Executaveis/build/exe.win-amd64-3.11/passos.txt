@@ -1,0 +1,6 @@
+Como criar o executavel
+1- instalar lib cx-freeze (pip install cx-freeze)
+
+
+Como enviar ao cliente
+pedir para o cliente instalar o google chrome e o executavel criado
